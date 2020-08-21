@@ -11,7 +11,7 @@ This tidytuesday project deals with Broadway musical data. Here I explore:
 ### Files
 
 The relevant files are:
-* broadway-clean.R - R script. (Yes I'm aware It's not that clean yet...)
+* broadway-clean.R - R script. (Yes I'm aware that it's not that clean yet...)
 * grosses.csv - input data. The R script pulls data directly from the tidytuesday repository but in case something doesn't work, you can use this as the backup.
 * broadway earning shares.png and top10totalgross_line_facet_highlight.png are outputs from the script
   * broadway earning shares2.png is a smaller size version (set dpi = 100 instead)
